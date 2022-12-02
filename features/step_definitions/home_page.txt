@@ -1,0 +1,11 @@
+Dado('que eu esteja na pagina home') do
+    home.load
+end
+  
+Quando('eu clico no botão {string}') do |string|
+    pending # Write code here that turns the phrase above into concrete actions
+end
+  
+Entao('sou direcionado para a sessão {string}') do |string|
+    pending # Write code here that turns the phrase above into concrete actions
+end

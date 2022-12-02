@@ -1,0 +1,10 @@
+#language: pt
+
+Funcionalidade: Home Page
+
+Cenario: Validar o menu da home page
+
+Dado que eu esteja na pagina home 
+Quando eu clico no botão "Sobre nós"
+Entao sou direcionado para a sessão "Sobre nós"
+
